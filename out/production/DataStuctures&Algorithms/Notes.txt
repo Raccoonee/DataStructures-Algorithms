@@ -1,0 +1,11 @@
+Data Structure & Algorithms
+
+Data Structure: A named location that can be used to store and organize data
+Ex. Family tree, array, JSON, object
+
+Algorithm: a collection of step to solve a problem
+Ex. searching algorithms
+
+
+
+
